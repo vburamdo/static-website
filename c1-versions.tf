@@ -8,7 +8,7 @@ terraform {
     }
   }
   cloud {
-    organization = "buramdododdi"
+    organization =  "buramdododdi"
 
     workspaces {
       name = "terraform-static-website"
